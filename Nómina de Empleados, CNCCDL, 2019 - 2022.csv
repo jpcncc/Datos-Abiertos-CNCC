@@ -1,9 +1,9 @@
 Nombre,Departamento,FunciÃ³n,Tipo_NÃ³mina,Sueldo_Bruto,Mes,AÃ±o
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,ENERO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,ENERO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,ENERO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,ENERO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,ENERO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,ENERO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,ENERO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,ENERO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,ENERO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,ENERO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,ENERO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,ENERO,2019
@@ -33,7 +33,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,ENERO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,ENERO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,ENERO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ENERO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ENERO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ENERO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,ChÃ³fer,CompensaciÃ³n Seguridad,18000,ENERO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,ENERO,2019
@@ -43,11 +43,11 @@ Eronimo Martinez Mora,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³
 Daniel Abad GuzmÃ¡n,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³n Seguridad,8000,ENERO,2019
 Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n Seguridad,18000,ENERO,2019
 Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto. de Comunicaciones,Contratado,60000,ENERO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,FEBRERO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,FEBRERO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,FEBRERO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,FEBRERO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,FEBRERO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,FEBRERO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,FEBRERO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,FEBRERO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,FEBRERO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,FEBRERO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,FEBRERO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,FEBRERO,2019
@@ -77,7 +77,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,FEBRERO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,FEBRERO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,FEBRERO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,FEBRERO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,FEBRERO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,FEBRERO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,FEBRERO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,FEBRERO,2019
@@ -88,11 +88,11 @@ Daniel Abad GuzmÃ¡n,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³
 Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n Seguridad,18000,FEBRERO,2019
 Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto. de Comunicaciones,Contratado,60000,FEBRERO,2019
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,FEBRERO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,MARZO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,MARZO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,MARZO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,MARZO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,MARZO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,MARZO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,MARZO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,MARZO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,MARZO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,MARZO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,MARZO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,MARZO,2019
@@ -122,7 +122,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,MARZO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,MARZO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,MARZO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MARZO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MARZO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MARZO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,MARZO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,MARZO,2019
@@ -135,11 +135,11 @@ Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto.
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,MARZO,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,MARZO,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,MARZO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,ABRIL,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,ABRIL,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,ABRIL,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,ABRIL,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,ABRIL,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,ABRIL,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,ABRIL,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,ABRIL,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,ABRIL,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,ABRIL,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,ABRIL,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,ABRIL,2019
@@ -169,7 +169,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,ABRIL,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,ABRIL,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,ABRIL,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ABRIL,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ABRIL,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,ABRIL,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,ABRIL,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,ABRIL,2019
@@ -182,11 +182,11 @@ Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto.
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,ABRIL,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,ABRIL,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,ABRIL,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,MAYO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,MAYO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,MAYO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,MAYO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,MAYO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,MAYO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,MAYO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,MAYO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,MAYO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,MAYO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,MAYO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,MAYO,2019
@@ -216,7 +216,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,MAYO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,MAYO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,MAYO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MAYO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MAYO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,MAYO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,MAYO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,MAYO,2019
@@ -229,11 +229,11 @@ Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto.
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,MAYO,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,MAYO,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,MAYO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,JUNIO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,JUNIO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,JUNIO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,JUNIO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,JUNIO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,JUNIO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,JUNIO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,JUNIO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,JUNIO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,JUNIO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,JUNIO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,JUNIO,2019
@@ -263,7 +263,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,JUNIO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,JUNIO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,JUNIO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JUNIO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JUNIO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JUNIO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,JUNIO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,JUNIO,2019
@@ -276,11 +276,11 @@ Riamny MarÃ­a Mendez Feliz ,Vicepresidencia Ejecutiva,Auxiliar de Apoyo  Dpto.
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,JUNIO,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,JUNIO,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,JUNIO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,JULIO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,JULIO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,JULIO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,JULIO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,JULIO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,JULIO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,JULIO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,JULIO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,JULIO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,JULIO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,JULIO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,JULIO,2019
@@ -310,7 +310,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,JULIO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,JULIO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,JULIO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JULIO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JULIO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,JULIO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,JULIO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,JULIO,2019
@@ -322,11 +322,11 @@ Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n S
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,JULIO,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,JULIO,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,JULIO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,AGOSTO,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,AGOSTO,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,AGOSTO,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,AGOSTO,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,AGOSTO,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,AGOSTO,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,AGOSTO,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,AGOSTO,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,AGOSTO,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,AGOSTO,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,AGOSTO,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,AGOSTO,2019
@@ -356,7 +356,7 @@ Elias Reyes Ozuna,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fi
 Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Personal Fijo,17000,AGOSTO,2019
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,AGOSTO,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,AGOSTO,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,AGOSTO,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,AGOSTO,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,AGOSTO,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,AGOSTO,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,AGOSTO,2019
@@ -368,11 +368,11 @@ Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n S
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Contratado,26250,AGOSTO,2019
 Joan Manuel Pimentel PeÃ±a,DirecciÃ³n Administrativa y Financiera,Conserje,Contratado,16500,AGOSTO,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,AGOSTO,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,SEPTIEMBRE,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,SEPTIEMBRE,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,SEPTIEMBRE,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,SEPTIEMBRE,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,SEPTIEMBRE,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,SEPTIEMBRE,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,SEPTIEMBRE,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,SEPTIEMBRE,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,17000,SEPTIEMBRE,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,SEPTIEMBRE,2019
 Juan Carlos Nina Hidalgo,DirecciÃ³n Administrativa y Financiera,Chofer,Personal Fijo,20000,SEPTIEMBRE,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,SEPTIEMBRE,2019
@@ -403,7 +403,7 @@ Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Pe
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,30000,SEPTIEMBRE,2019
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Personal Fijo,26250,SEPTIEMBRE,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,SEPTIEMBRE,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,SEPTIEMBRE,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,SEPTIEMBRE,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,18000,SEPTIEMBRE,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,18000,SEPTIEMBRE,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,30000,SEPTIEMBRE,2019
@@ -413,11 +413,11 @@ Eronimo Martinez Mora,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³
 Daniel Abad GuzmÃ¡n,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³n Seguridad,8000,SEPTIEMBRE,2019
 Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n Seguridad,18000,SEPTIEMBRE,2019
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,SEPTIEMBRE,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,OCTUBRE,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,OCTUBRE,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,OCTUBRE,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,OCTUBRE,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,OCTUBRE,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,OCTUBRE,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,OCTUBRE,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,20000,OCTUBRE,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,20000,OCTUBRE,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,OCTUBRE,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,OCTUBRE,2019
 Jeniffer Hanna Collado,Vicepresidencia Ejecutiva,Enc. PlanificaciÃ³n y Desarrollo,Personal Fijo,60000,OCTUBRE,2019
@@ -446,7 +446,7 @@ Julio Tolentino Portorreal,DirecciÃ³n Administrativa y Financiera,Mensajero,Pe
 Estefany Marlene de LeÃ³n GuzmÃ¡n,Vicepresidencia Ejecutiva,Auxiliar de Relaciones PÃƒÂºblica,Personal Fijo,31500,OCTUBRE,2019
 Mirian Mirope Payano Ulloa,DirecciÃ³n Administrativa y Financiera,Recepcionista,Personal Fijo,26250,OCTUBRE,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,OCTUBRE,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,OCTUBRE,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,OCTUBRE,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,OCTUBRE,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,20000,OCTUBRE,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,35000,OCTUBRE,2019
@@ -455,11 +455,11 @@ Eduardo Luis Morillo de la Cruz,Vicepresidencia Ejecutiva,Seguridad Militar,Comp
 Eronimo Martinez Mora,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³n Seguridad,10000,OCTUBRE,2019
 Daniel Abad GuzmÃ¡n,Vicepresidencia Ejecutiva,Seguridad Militar,CompensaciÃ³n Seguridad,10000,OCTUBRE,2019
 Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n Seguridad,20000,OCTUBRE,2019
-Ernesto Reyna AlcÃ¡ntara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,NOVIEMBRE,2019
-EvÃ©rgito PeÃ±a Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,NOVIEMBRE,2019
-Julio MoisÃ©s Ãlvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,NOVIEMBRE,2019
+Ernesto Reyna Alcántara,Vicepresidencia Ejecutiva,Vicepresidente Ejecutivo,Personal Fijo,225000,NOVIEMBRE,2019
+Evérgito Peña Acosta,DirecciÃ³n Administrativa y Financiera,Director Administrativo Financiero,Personal Fijo,175000,NOVIEMBRE,2019
+Julio Moisés Álvarez,DirecciÃ³n TÃ©cnica,Director Departamental,Personal Fijo,175000,NOVIEMBRE,2019
 Fabia RosalÃ­a Duval Marmolejos,DirecciÃ³n TÃ©cnica,TÃ©cnico ll,Personal Fijo,40000,NOVIEMBRE,2019
-Mirella Fredesvinda Santana RomÃ¡n ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,20000,NOVIEMBRE,2019
+Mirella Fredesvinda Santana Román ,DirecciÃ³n Administrativa y Financiera,Conserje,Personal Fijo,20000,NOVIEMBRE,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Enc. Depto. Administrativo,Personal Fijo,60000,NOVIEMBRE,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,DirecciÃ³n Administrativa y Financiera,Enc. Div. Presupuesto,Personal Fijo,60000,NOVIEMBRE,2019
 Jeniffer Hanna Collado,Vicepresidencia Ejecutiva,Enc. PlanificaciÃ³n y Desarrollo,Personal Fijo,60000,NOVIEMBRE,2019
@@ -489,7 +489,7 @@ Lisbeth Anabel Arias Ravelo ,Vicepresidencia Ejecutiva,Asistente Administrativa,
 Isrrael de la Cruz Feliz,DirecciÃ³n Administrativa y Financiera ,Conserje,Personal Fijo,16500,NOVIEMBRE,2019
 Anadalucia Contreras Rodriguez,DirecciÃ³n TÃ©cnica,Asistente Administrativa,Personal Fijo,40000,NOVIEMBRE,2019
 Yauson B. PÃ©rez PeÃ±a,Vicepresidencia Ejecutiva,Seguridad,CompensaciÃ³n Seguridad,16000,NOVIEMBRE,2019
-RamÃ³n Antonio Salazar JimÃ©nez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,NOVIEMBRE,2019
+Ramón Antonio Salazar Jiménez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,NOVIEMBRE,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,DirecciÃ³n Administrativa y Financiera,Seguridad,CompensaciÃ³n Seguridad,22000,NOVIEMBRE,2019
 Reimis Roja NÃƒÂºÃ±ez,Vicepresidencia Ejecutiva,Chofer,CompensaciÃ³n Seguridad,20000,NOVIEMBRE,2019
 RamÃ³n Antonio Reyes Polanco,Vicepresidencia Ejecutiva,Enc. De Seguridad,CompensaciÃ³n Seguridad,35000,NOVIEMBRE,2019
@@ -501,10 +501,10 @@ Angel Alberto LÃ³pez Soriano,DirecciÃ³n TÃ©cnica,Chofer ,CompensaciÃ³n S
 Elizabeth Margaret Rosado Fernandez,DirecciÃ³n Administrativa y Financiera,Auxiliar de Compras,Contratado,35000,NOVIEMBRE,2019
 Pedro Antonio Coss Sanz,DirecciÃ³n TÃ©cnica,Analista en AdaptaciÃ³n,Contratado,40000,NOVIEMBRE,2019
 Attala Virginia de la Mota Izquiel ,DirecciÃ³n TÃ©cnica,Analista en AdaptaciÃ³n,Contratado,40000,NOVIEMBRE,2019
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,DICIEMBRE,2019
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,175000,DICIEMBRE,2019
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,DICIEMBRE,2019
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,175000,DICIEMBRE,2019
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,DICIEMBRE,2019
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,DICIEMBRE,2019
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,DICIEMBRE,2019
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,60000,DICIEMBRE,2019
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,60000,DICIEMBRE,2019
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,60000,DICIEMBRE,2019
@@ -538,7 +538,7 @@ Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,DICIEMBRE,2019
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor MayordomÃ­a,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,DICIEMBRE,2019
 Yauson B. PÃ©rez PeÃ±a,Seguridad,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,16000,DICIEMBRE,2019
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,DICIEMBRE,2019
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,DICIEMBRE,2019
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,DICIEMBRE,2019
 Reimis Roja NÃƒÂºÃ±ez,ChÃ³fer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,DICIEMBRE,2019
 RamÃ³n Antonio Reyes Polanco,Enc. De Seguridad,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,35000,DICIEMBRE,2019
@@ -550,8 +550,8 @@ Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n S
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,DICIEMBRE,2019
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,DICIEMBRE,2019
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,DICIEMBRE,2019
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,ENERO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,175000,ENERO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,ENERO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,175000,ENERO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,ENERO,2020
 Mirella Fredesvinda Santana RomÃ¡n,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ENERO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,60000,ENERO,2020
@@ -585,7 +585,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ENERO,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ENERO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor MayordomÃ­a,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,ENERO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,ENERO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,ENERO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,ENERO,2020
 Reimis Roja NÃƒÂºÃ±ez,ChÃ³fer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,ENERO,2020
 Angel Alberto LÃ³pez Soriano,ChÃ³fer,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,ENERO,2020
@@ -598,10 +598,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional,Vicepresidencia E
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras,DirecciÃ³n Administrativa y Financiera,Contratado,35000,ENERO,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica,Contratado,40000,ENERO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica,Contratado,40000,ENERO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,FEBRERO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,FEBRERO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,FEBRERO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,FEBRERO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,FEBRERO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,FEBRERO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,FEBRERO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,FEBRERO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,FEBRERO,2020
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,75000,FEBRERO,2020
@@ -634,7 +634,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,FEBRERO,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,FEBRERO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor MayordomÃ­a,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,FEBRERO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,FEBRERO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,FEBRERO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,FEBRERO,2020
 Reimis Roja NÃƒÂºÃ±ez,ChÃ³fer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,FEBRERO,2020
 Angel Alberto LÃ³pez Soriano,ChÃ³fer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,FEBRERO,2020
@@ -647,10 +647,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional ,Vicepresidencia 
 Elizabeth Margaret Rosado FernÃ¡ndez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,FEBRERO,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,FEBRERO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,FEBRERO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,MARZO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,MARZO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,MARZO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,MARZO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,MARZO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MARZO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MARZO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,MARZO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,MARZO,2020
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,75000,MARZO,2020
@@ -683,7 +683,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MARZO,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MARZO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,MARZO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,MARZO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,MARZO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,MARZO,2020
 Reimis Roja NÃƒÂºÃ±ez,Chofer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,MARZO,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,MARZO,2020
@@ -696,10 +696,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional ,Vicepresidencia 
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,MARZO,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,MARZO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,MARZO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,ABRIL,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,ABRIL,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,ABRIL,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,ABRIL,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,ABRIL,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ABRIL,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ABRIL,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,ABRIL,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,ABRIL,2020
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,75000,ABRIL,2020
@@ -732,7 +732,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ABRIL,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,ABRIL,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,ABRIL,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,ABRIL,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,ABRIL,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,ABRIL,2020
 Reimis Roja NÃƒÂºÃ±ez,Chofer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,ABRIL,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,ABRIL,2020
@@ -745,10 +745,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional ,Vicepresidencia 
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,ABRIL,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,ABRIL,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,ABRIL,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,MAYO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,MAYO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,MAYO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,MAYO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,MAYO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MAYO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MAYO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,MAYO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,MAYO,2020
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,75000,MAYO,2020
@@ -781,7 +781,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MAYO,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,MAYO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,MAYO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,MAYO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,MAYO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,MAYO,2020
 Reimis Roja NÃƒÂºÃ±ez,Chofer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,MAYO,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,MAYO,2020
@@ -794,10 +794,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional ,Vicepresidencia 
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,MAYO,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,MAYO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,MAYO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,JUNIO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,JUNIO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,JUNIO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,JUNIO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,JUNIO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JUNIO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JUNIO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,JUNIO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,JUNIO,2020
 Jeniffer Hanna Collado,Enc. PlanificaciÃ³n y Desarrollo,Vicepresidencia Ejecutiva,Personal Fijo,35000,JUNIO,2020
@@ -830,7 +830,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JUNIO,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JUNIO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,JUNIO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,JUNIO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,JUNIO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,JUNIO,2020
 Reimis Roja NÃƒÂºÃ±ez,Chofer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,JUNIO,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,JUNIO,2020
@@ -843,10 +843,10 @@ Laura Virginia Nin Arias,Analista CooperaciÃ³n Internacional ,Vicepresidencia 
 Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administrativa y Financiera,Contratado,35000,JUNIO,2020
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,JUNIO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,JUNIO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,JULIO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,JULIO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,JULIO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,JULIO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,JULIO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JULIO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JULIO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,JULIO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,JULIO,2020
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Administrativa y Financiera,Personal Fijo,23625,JULIO,2020
@@ -879,7 +879,7 @@ Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,JULIO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,JULIO,2020
 Milagros Josefina Minervino Maldonado,Gestor de Redes Sociales,Vicepresidencia Ejecutiva,Personal Fijo,35000,JULIO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,JULIO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,JULIO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,JULIO,2020
 Reimis Roja NÃƒÂºÃ±ez,Chofer,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,20000,JULIO,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,JULIO,2020
@@ -893,10 +893,10 @@ Elizabeth Margaret Rosado Fernandez,Auxiliar de Compras ,DirecciÃ³n Administra
 Pedro Antonio Coss Sanz,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,JULIO,2020
 Attala Virginia de la Mota Izquiel,Analista en AdaptaciÃ³n,DirecciÃ³n TÃ©cnica ,Contratado,40000,JULIO,2020
 Rafael Elias Beriguete PeÃ±a,Asesor TÃ©cnico,Vicepresidencia Ejecutiva,Contratado,125000,JULIO,2020
-EvÃ©rgito PeÃ±a Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,AGOSTO,2020
-Julio MoisÃ©s Ãlvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,AGOSTO,2020
+Evérgito Peña Acosta,Vicepresidente Ejecutivo,Vicepresidencia Ejecutiva,Personal Fijo,250000,AGOSTO,2020
+Julio Moisés Álvarez,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,AGOSTO,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,AGOSTO,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,AGOSTO,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,AGOSTO,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,AGOSTO,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,AGOSTO,2020
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Administrativa y Financiera,Personal Fijo,23625,AGOSTO,2020
@@ -929,7 +929,7 @@ Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,AGOSTO,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor Mayordomia,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,AGOSTO,2020
 Milagros Josefina Minervino Maldonado,Gestor de Redes Sociales,Vicepresidencia Ejecutiva,Personal Fijo,35000,AGOSTO,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,AGOSTO,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,AGOSTO,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,AGOSTO,2020
 Angel Alberto LÃ³pez Soriano,Chofer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,AGOSTO,2020
 Juan Arturo Adames Rubio,Seguridad Militar,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,10000,AGOSTO,2020
@@ -945,7 +945,7 @@ Maximiliano Rabelais Puig Miller,Vicepresidente Ejecutivo,Vicepresidencia Ejecut
 Alan louis RamÃ­rez Risk,Director Departamental,DirecciÃ³n TÃ©cnica,Personal Fijo,189000,SEPTIEMBRE,2020
 Luz MarÃ­a Abreu Lantigua,Directora Administrativa Financiera ,DirecciÃ³n Administrativa y Financiera,Personal Fijo,189000,SEPTIEMBRE,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,SEPTIEMBRE,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,SEPTIEMBRE,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,SEPTIEMBRE,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,SEPTIEMBRE,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,SEPTIEMBRE,2020
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Administrativa y Financiera,Personal Fijo,23625,SEPTIEMBRE,2020
@@ -975,7 +975,7 @@ Mariela Alberto,Recepcionista,DirecciÃ³n Administrativa y Financiera,Personal 
 Oscar Danilo Cisnero Peralta,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,SEPTIEMBRE,2020
 Jesus Manuel Polanco Tolentino,Mensajero,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,SEPTIEMBRE,2020
 Waleska Lucia PeÃ±a RodrÃ­guez,Supervisor MayordomÃ­a,DirecciÃ³n Administrativa y Financiera,Personal Fijo,25000,SEPTIEMBRE,2020
-RamÃ³n Antonio Salazar JimÃ©nez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,SEPTIEMBRE,2020
+Ramón Antonio Salazar Jiménez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,30000,SEPTIEMBRE,2020
 Feliciano HernÃ¡ndez HernÃ¡ndez,Seguridad,DirecciÃ³n Administrativa y Financiera,CompensaciÃ³n Seguridad,22000,SEPTIEMBRE,2020
 Angel Alberto LÃ³pez Soriano,ChÃ³fer ,DirecciÃ³n TÃ©cnica,CompensaciÃ³n Seguridad,20000,SEPTIEMBRE,2020
 Juan Arturo Adames Rubio,Seguridad Militar,Vicepresidencia Ejecutiva,CompensaciÃ³n Seguridad,10000,SEPTIEMBRE,2020
@@ -985,7 +985,7 @@ Alan louis RamÃ­rez Risk,Director Departamental,DirecciÃ³n TÃ©cnica,Person
 Luz MarÃ­a Abreu Lantigua,Directora Administrativa Financiera ,DirecciÃ³n Administrativa y Financiera,Personal Fijo,189000,OCTUBRE,2020
 Dario Geraldo Kelly de los Santos,Asesor JurÃ­dico,Vicepresidencia Ejecutiva,Personal Fijo,100000,OCTUBRE,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo,40000,OCTUBRE,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,OCTUBRE,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo,20000,OCTUBRE,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,OCTUBRE,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo,72000,OCTUBRE,2020
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Administrativa y Financiera,Personal Fijo,23625,OCTUBRE,2020
@@ -1029,7 +1029,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica,Personal Fijo ,40000,NOVIEMBRE,2020
 Dario Geraldo Kelly de los Santos,Asesor JurÃ­dico,Vicepresidencia Ejecutiva,Personal Fijo ,100000,NOVIEMBRE,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica,Personal Fijo ,40000,NOVIEMBRE,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo ,20000,NOVIEMBRE,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera,Personal Fijo ,20000,NOVIEMBRE,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo ,72000,NOVIEMBRE,2020
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera,Personal Fijo ,30000,NOVIEMBRE,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera,Personal Fijo ,72000,NOVIEMBRE,2020
@@ -1078,7 +1078,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,DICIEMBRE,2020
 Dario Geraldo Kelly de los Santos,Asesor JurÃ­dico,Vicepresidencia Ejecutiva, Personal Fijo ,100000,DICIEMBRE,2020
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,DICIEMBRE,2020
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,DICIEMBRE,2020
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,DICIEMBRE,2020
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,DICIEMBRE,2020
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,DICIEMBRE,2020
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,DICIEMBRE,2020
@@ -1130,7 +1130,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,ENERO,2021
 Dario Geraldo Kelly de los Santos,Asesor JurÃ­dico,Vicepresidencia Ejecutiva, Personal Fijo ,100000,ENERO,2021
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,ENERO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,ENERO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,ENERO,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,ENERO,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,ENERO,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,ENERO,2021
@@ -1182,7 +1182,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,FEBRERO,2021
 Lumilda Altagracia Pujols Pujols,Asistente Ejecutiva,Vicepresidencia Ejecutiva, Personal Fijo ,45000,FEBRERO,2021
 Fabia RosalÃ­a Duval Marmolejos,TÃ©cnico ll,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,FEBRERO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,FEBRERO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,FEBRERO,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,FEBRERO,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,FEBRERO,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,FEBRERO,2021
@@ -1235,7 +1235,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,MARZO,2021
 Lumilda Altagracia Pujols Pujols,Asistente Ejecutiva,Vicepresidencia Ejecutiva, Personal Fijo ,45000,MARZO,2021
 Fabia RosalÃ­a Duval Marmolejos,Asesora TÃ©cnica,DirecciÃ³n TÃ©cnica, Personal Fijo ,75000,MARZO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,MARZO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,MARZO,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,75000,MARZO,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,MARZO,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,MARZO,2021
@@ -1285,7 +1285,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,ABRIL,2021
 Lumilda Altagracia Pujols Pujols,Asistente Ejecutiva,Vicepresidencia Ejecutiva, Personal Fijo ,45000,ABRIL,2021
 Fabia RosalÃ­a Duval Marmolejos,Asesora TÃ©cnica,DirecciÃ³n TÃ©cnica, Personal Fijo ,75000,ABRIL,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,ABRIL,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,ABRIL,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,75000,ABRIL,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,ABRIL,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,ABRIL,2021
@@ -1338,7 +1338,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,MAYO,2021
 Lumilda Altagracia Pujols Pujols,Asistente Ejecutiva,Vicepresidencia Ejecutiva, Personal Fijo ,45000,MAYO,2021
 Fabia RosalÃ­a Duval Marmolejos,Asesora TÃ©cnica,DirecciÃ³n TÃ©cnica, Personal Fijo ,75000,MAYO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,MAYO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,MAYO,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,75000,MAYO,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,MAYO,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,MAYO,2021
@@ -1388,7 +1388,7 @@ Angela del CorazÃ³n de JesÃºs Pereyra,Asistente Administrativa ,DirecciÃ³n
 Belkys Michelle Cruz Frias,Asistente Administrativa ,DirecciÃ³n TÃ©cnica, Personal Fijo ,40000,JUNIO,2021
 Lumilda Altagracia Pujols Pujols,Asistente Ejecutiva,Vicepresidencia Ejecutiva, Personal Fijo ,45000,JUNIO,2021
 Fabia RosalÃ­a Duval Marmolejos,Asesora TÃ©cnica,DirecciÃ³n TÃ©cnica, Personal Fijo ,75000,JUNIO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,JUNIO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,20000,JUNIO,2021
 Plutarco Manuel UreÃ±a HernÃ¡ndez,Enc. Depto. Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,75000,JUNIO,2021
 Paola Torres Castillo,Auxiliar Administrativo,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,30000,JUNIO,2021
 Patricia Josefina RodrÃ­guez LÃ³pez,Enc. Div. Presupuesto,DirecciÃ³n Administrativa y Financiera, Personal Fijo ,72000,JUNIO,2021
@@ -1469,7 +1469,7 @@ JosÃ© Manuel Alboleda SaviÃ±Ã³n ,Supervisor de Mantenimiento ,DirecciÃ³n
 Manuel AndrÃ©s Figueroa Soriano ,Ene. De Servicios Generales ,DirecciÃ³n Adm. y Financiera ,Designado,90000,AGOSTO,2021
 Karina Fernanda Florentino Feliz ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,AGOSTO,2021
 Walin Danis Ogando ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,AGOSTO,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,AGOSTO,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,AGOSTO,2021
 Yudelka Antonia Jorge Ramos ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,AGOSTO,2021
 Andalucia Contreras Rodriguez ,Analista Financiera ,DirecciÃ³n Adm. y Financiera ,Designado,55000,AGOSTO,2021
 Josefina Altagracia NamÃ­as Tejada ,Auxiliar de Contabilidad ,DirecciÃ³n Adm. y Financiera ,Designado,23625,AGOSTO,2021
@@ -1481,7 +1481,7 @@ Belkvs Michelle Cruz Frias ,Asistente Administrativa ,DirecciÃ³n TÃ©cnica ,D
 Sahoni Sharina Feliz Matos ,Secretaria ,DirecciÃ³n TÃ©cnica ,Designado,32000,AGOSTO,2021
 Domingo Antonio Burgos Viloria ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,AGOSTO,2021
 Emelv Paola RodrÃ­guez GuzmÃ¡n ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,AGOSTO,2021
-Luz Delina AlcÃ¡ntara Aquino ,Ene. Deoto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,AGOSTO,2021
+Luz Delina Alcántara Aquino ,Ene. Deoto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,AGOSTO,2021
 Daniela Virginia Sifontes GonzÃ¡lez ,Analista de AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,AGOSTO,2021
 Fabia ResalÃ­a Duval Marmolejos ,Ene. Depto. De AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,AGOSTO,2021
 Massiel Estefania Cairo Castillo ,Analista de AdaptaciÃ³n ,Vicepresidencia Ejecutiva ,Designado,70000,AGOSTO,2021
@@ -1534,7 +1534,7 @@ JosÃ© Manuel Alboleda SaviÃ±Ã³n ,Supervisor de Mantenimiento ,DirecciÃ³n
 Manuel AndrÃ©s Figueroa Soriano ,Ene. De Servicios Generales ,DirecciÃ³n Adm. y Financiera ,Designado,90000,SEPTIEMBRE,2021
 Karina Fernanda Florentino Feliz ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,SEPTIEMBRE,2021
 Walin Danis Ogando ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,SEPTIEMBRE,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,SEPTIEMBRE,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,SEPTIEMBRE,2021
 Yudelka Antonia Jorge Ramos ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,SEPTIEMBRE,2021
 Andalucia Contreras Rodriguez ,Analista Financiera ,DirecciÃ³n Adm. y Financiera ,Designado,55000,SEPTIEMBRE,2021
 Josefina Altagracia NamÃ­as Tejada ,Auxiliar de Contabilidad ,DirecciÃ³n Adm. y Financiera ,Designado,23625,SEPTIEMBRE,2021
@@ -1546,7 +1546,7 @@ Belkvs Michelle Cruz Frias ,Asistente Administrativa ,DirecciÃ³n TÃ©cnica ,D
 Sahoni Sharina Feliz Matos ,Secretaria ,DirecciÃ³n TÃ©cnica ,Designado,32000,SEPTIEMBRE,2021
 Domingo Antonio Burgos Viloria ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,SEPTIEMBRE,2021
 Emelv Paola RodrÃ­guez GuzmÃ¡n ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,SEPTIEMBRE,2021
-Luz Delina AlcÃ¡ntara Aquino ,Ene. Depto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,SEPTIEMBRE,2021
+Luz Delina Alcántara Aquino ,Ene. Depto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,SEPTIEMBRE,2021
 Daniela Virginia Sifontes GonzÃ¡lez ,Analista de AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,SEPTIEMBRE,2021
 Fabia ResalÃ­a Duval Marmolejos ,Ene. Depto. De AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,SEPTIEMBRE,2021
 Massiel Estefania Cairo Castillo ,Analista de AdaptaciÃ³n ,Vicepresidencia Ejecutiva ,Designado,70000,SEPTIEMBRE,2021
@@ -1599,7 +1599,7 @@ JosÃ© Manuel Alboleda SaviÃ±Ã³n ,Supervisor de Mantenimiento ,DirecciÃ³n
 Manuel AndrÃ©s Figueroa Soriano ,Ene. De Servicios Generales ,DirecciÃ³n Adm. y Financiera ,Designado,90000,OCTUBRE,2021
 Karina Fernanda Florentino Feliz ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,OCTUBRE,2021
 Walin Danis Ogando ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,OCTUBRE,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,OCTUBRE,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,OCTUBRE,2021
 Yudelka Antonia Jorge Ramos ,Conserje,DirecciÃ³n Adm. y Financiera ,Designado,25000,OCTUBRE,2021
 Andalucia Contreras Rodriguez ,Analista Financiera ,DirecciÃ³n Adm. y Financiera ,Designado,55000,OCTUBRE,2021
 Josefina Altagracia NamÃ­as Tejada ,Auxiliar de Contabilidad ,DirecciÃ³n Adm. y Financiera ,Designado,23625,OCTUBRE,2021
@@ -1611,7 +1611,7 @@ Belkvs Michelle Cruz Frias ,Asistente Administrativa ,DirecciÃ³n TÃ©cnica ,D
 Sahoni Sharina Feliz Matos ,Secretaria ,DirecciÃ³n TÃ©cnica ,Designado,32000,OCTUBRE,2021
 Domingo Antonio Burgos Viloria ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,OCTUBRE,2021
 Emelv Paola RodrÃ­guez GuzmÃ¡n ,Analista de MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,OCTUBRE,2021
-Luz Delina AlcÃ¡ntara Aquino ,Ene. Depto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,OCTUBRE,2021
+Luz Delina Alcántara Aquino ,Ene. Depto. De MitigaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,OCTUBRE,2021
 Daniela Virginia Sifontes GonzÃ¡lez ,Analista de AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,70000,OCTUBRE,2021
 Fabia ResalÃ­a Duval Marmolejos ,Ene. Depto. De AdaptaciÃ³n ,DirecciÃ³n TÃ©cnica ,Designado,130000,OCTUBRE,2021
 Massiel Estefania Cairo Castillo ,Analista de AdaptaciÃ³n ,Vicepresidencia Ejecutiva ,Designado,70000,OCTUBRE,2021
@@ -1668,7 +1668,7 @@ Jose Manuel Alboleda SaviÃ±on,Supervisor de Mantenimiento,DirecciÃ³n Adm. y 
 Manuel AndrÃ©s Figueroa Soriano,Enc. De Servicios Generales,DirecciÃ³n Adm. y Financiera, Designado ,90000,NOVIEMBRE,2021
 Karina Fernanda Florentino Feliz,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,NOVIEMBRE,2021
 Walin Danis Ogando,Conserje,DirecciÃ³n Adm. y Financiera, Designado ,25000,NOVIEMBRE,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,NOVIEMBRE,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,NOVIEMBRE,2021
 Yudelka Antonia Jorge Ramos,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,NOVIEMBRE,2021
 Andalucia Contreras Rodriguez,Analista Financiera,DirecciÃ³n Adm. y Financiera, Designada ,55000,NOVIEMBRE,2021
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Adm. y Financiera, Designada ,23625,NOVIEMBRE,2021
@@ -1739,7 +1739,7 @@ Jose Manuel Alboleda SaviÃ±on,Supervisor de Mantenimiento,DirecciÃ³n Adm. y 
 Manuel AndrÃ©s Figueroa Soriano,Enc. De Servicios Generales,DirecciÃ³n Adm. y Financiera, Designado ,90000,DICIEMBRE,2021
 Karina Fernanda Florentino Feliz,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,DICIEMBRE,2021
 Walin Danis Ogando,Conserje,DirecciÃ³n Adm. y Financiera, Designado ,25000,DICIEMBRE,2021
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,DICIEMBRE,2021
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,DICIEMBRE,2021
 Yudelka Antonia Jorge Ramos,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,DICIEMBRE,2021
 Andalucia Contreras Rodriguez,Analista Financiera,DirecciÃ³n Adm. y Financiera, Designada ,55000,DICIEMBRE,2021
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Adm. y Financiera, Designada ,23625,DICIEMBRE,2021
@@ -1810,7 +1810,7 @@ Jose Manuel Alboleda SaviÃ±on,Supervisor de Mantenimiento,DirecciÃ³n Adm. y 
 Manuel AndrÃ©s Figueroa Soriano,Enc. De Servicios Generales,DirecciÃ³n Adm. y Financiera, Designado ,90000,ENERO,2022
 Karina Fernanda Florentino Feliz,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,ENERO,2022
 Walin Danis Ogando,Conserje,DirecciÃ³n Adm. y Financiera, Designado ,25000,ENERO,2022
-Mirella Fredesvinda Santana RomÃ¡n ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,ENERO,2022
+Mirella Fredesvinda Santana Román ,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,ENERO,2022
 Yudelka Antonia Jorge Ramos,Conserje,DirecciÃ³n Adm. y Financiera, Designada ,25000,ENERO,2022
 Andalucia Contreras Rodriguez,Analista Financiera,DirecciÃ³n Adm. y Financiera, Designada ,55000,ENERO,2022
 Josefina Altagracia NamÃ­as Tejada,Auxiliar de Contabilidad,DirecciÃ³n Adm. y Financiera, Designada ,23625,ENERO,2022
@@ -3220,141 +3220,345 @@ TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPAR
 FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA,DESIGNADO,150000,SEPTIEMBRE,2023
 ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA,DESIGNADO,25000,SEPTIEMBRE,2023
 GERARDO PANIAGUA ZABALA,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA,DESIGNADO,25000,SEPTIEMBRE,2023
-MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ," 250,000.00 ",OCTUBRE,2023
-VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 95,000.00 ",OCTUBRE,2023
-RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 150,000.00 ",OCTUBRE,2023
-LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 70,000.00 ",OCTUBRE,2023
-LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 130,000.00 ",OCTUBRE,2023
-FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",OCTUBRE,2023
-DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 120,000.00 ",OCTUBRE,2023
-MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 100,000.00 ",OCTUBRE,2023
-RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 10,000.00 ",OCTUBRE,2023
-MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 25,000.00 ",OCTUBRE,2023
-EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 26,000.00 ",OCTUBRE,2023
-TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 90,000.00 ",OCTUBRE,2023
-MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 78,500.00 ",OCTUBRE,2023
-JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",OCTUBRE,2023
-JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 70,000.00 ",OCTUBRE,2023
-PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 75,000.00 ",OCTUBRE,2023
-MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",OCTUBRE,2023
-RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 32,000.00 ",OCTUBRE,2023
-MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 130,000.00 ",OCTUBRE,2023
-LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 60,000.00 ",OCTUBRE,2023
-JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",OCTUBRE,2023
-MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 70,000.00 ",OCTUBRE,2023
-YRALISSA DIAZ LANGUASCO,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 55,000.00 ",OCTUBRE,2023
-LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",OCTUBRE,2023
-ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 60,000.00 ",OCTUBRE,2023
-MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 28,000.00 ",OCTUBRE,2023
-ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 38,000.00 ",OCTUBRE,2023
-ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 45,000.00 ",OCTUBRE,2023
-JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",OCTUBRE,2023
-MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 90,000.00 ",OCTUBRE,2023
-KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",OCTUBRE,2023
-WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",OCTUBRE,2023
-MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 26,000.00 ",OCTUBRE,2023
-YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",OCTUBRE,2023
-ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 130,000.00 ",OCTUBRE,2023
-ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ," 118,600.00 ",OCTUBRE,2023
-GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 90,000.00 ",OCTUBRE,2023
-ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",OCTUBRE,2023
-SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ," 60,000.00 ",OCTUBRE,2023
-DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ," 70,000.00 ",OCTUBRE,2023
-LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",OCTUBRE,2023
-PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",OCTUBRE,2023
-OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 120,000.00 ",OCTUBRE,2023
-FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",OCTUBRE,2023
-MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 70,000.00 ",OCTUBRE,2023
-FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",OCTUBRE,2023
-ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",OCTUBRE,2023
-LISBETH ANABEL ARIAS RAVELO,GESTORA DE PROTOCOLO,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 60,000.00 ",OCTUBRE,2023
-LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",OCTUBRE,2023
-JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",OCTUBRE,2023
-HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 70,000.00 ",OCTUBRE,2023
-JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 60,000.00 ",OCTUBRE,2023
-TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 120,000.00 ",OCTUBRE,2023
-FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 150,000.00 ",OCTUBRE,2023
-ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-GERARDO PANIAGUA ZABALA,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",OCTUBRE,2023
-MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ," 250,000.00 ",NOVIEMBRE,2023
-VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 95,000.00 ",NOVIEMBRE,2023
-RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 150,000.00 ",NOVIEMBRE,2023
-LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 70,000.00 ",NOVIEMBRE,2023
-LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 130,000.00 ",NOVIEMBRE,2023
-FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",NOVIEMBRE,2023
-DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 120,000.00 ",NOVIEMBRE,2023
-MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 100,000.00 ",NOVIEMBRE,2023
-RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 10,000.00 ",NOVIEMBRE,2023
-MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 25,000.00 ",NOVIEMBRE,2023
-EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 26,000.00 ",NOVIEMBRE,2023
-TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 90,000.00 ",NOVIEMBRE,2023
-MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 78,500.00 ",NOVIEMBRE,2023
-JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",NOVIEMBRE,2023
-JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 70,000.00 ",NOVIEMBRE,2023
-PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 75,000.00 ",NOVIEMBRE,2023
-MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",NOVIEMBRE,2023
-RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 32,000.00 ",NOVIEMBRE,2023
-MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 130,000.00 ",NOVIEMBRE,2023
-LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 60,000.00 ",NOVIEMBRE,2023
-JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",NOVIEMBRE,2023
-MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 70,000.00 ",NOVIEMBRE,2023
-YRALISSA DIAZ LANGUASCO,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 55,000.00 ",NOVIEMBRE,2023
-LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",NOVIEMBRE,2023
-ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 60,000.00 ",NOVIEMBRE,2023
-MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 28,000.00 ",NOVIEMBRE,2023
-ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 38,000.00 ",NOVIEMBRE,2023
-ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 45,000.00 ",NOVIEMBRE,2023
-JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",NOVIEMBRE,2023
-MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 90,000.00 ",NOVIEMBRE,2023
-KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",NOVIEMBRE,2023
-WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",NOVIEMBRE,2023
-MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 26,000.00 ",NOVIEMBRE,2023
-YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",NOVIEMBRE,2023
-ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 130,000.00 ",NOVIEMBRE,2023
-ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ," 118,600.00 ",NOVIEMBRE,2023
-GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 90,000.00 ",NOVIEMBRE,2023
-ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",NOVIEMBRE,2023
-SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ," 60,000.00 ",NOVIEMBRE,2023
-DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ," 70,000.00 ",NOVIEMBRE,2023
-LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",NOVIEMBRE,2023
-PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",NOVIEMBRE,2023
-OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 120,000.00 ",NOVIEMBRE,2023
-FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",NOVIEMBRE,2023
-MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 70,000.00 ",NOVIEMBRE,2023
-FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",NOVIEMBRE,2023
-ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",NOVIEMBRE,2023
-LISBETH ANABEL ARIAS RAVELO,GESTORA DE PROTOCOLO,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 60,000.00 ",NOVIEMBRE,2023
-LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",NOVIEMBRE,2023
-JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",NOVIEMBRE,2023
-HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 70,000.00 ",NOVIEMBRE,2023
-JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 60,000.00 ",NOVIEMBRE,2023
-TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 120,000.00 ",NOVIEMBRE,2023
-FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 150,000.00 ",NOVIEMBRE,2023
-ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
-GERARDO PANIAGUA ZABALA,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",NOVIEMBRE,2023
+MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ,250000,OCTUBRE,2023
+VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,95000,OCTUBRE,2023
+RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,150000,OCTUBRE,2023
+LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,70000,OCTUBRE,2023
+LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,OCTUBRE,2023
+SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,130000,OCTUBRE,2023
+FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,OCTUBRE,2023
+DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,120000,OCTUBRE,2023
+MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,OCTUBRE,2023
+CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,100000,OCTUBRE,2023
+RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,10000,OCTUBRE,2023
+MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,25000,OCTUBRE,2023
+EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,26000,OCTUBRE,2023
+TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,90000,OCTUBRE,2023
+MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,78500,OCTUBRE,2023
+JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,OCTUBRE,2023
+JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,70000,OCTUBRE,2023
+PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,75000,OCTUBRE,2023
+MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,OCTUBRE,2023
+RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,32000,OCTUBRE,2023
+MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,130000,OCTUBRE,2023
+LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,60000,OCTUBRE,2023
+JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,OCTUBRE,2023
+JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,OCTUBRE,2023
+MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,OCTUBRE,2023
+YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,70000,OCTUBRE,2023
+YRALISSA DIAZ LANGUASCO,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,55000,OCTUBRE,2023
+LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,OCTUBRE,2023
+ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,60000,OCTUBRE,2023
+MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,28000,OCTUBRE,2023
+ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,OCTUBRE,2023
+ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,38000,OCTUBRE,2023
+ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,45000,OCTUBRE,2023
+JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,OCTUBRE,2023
+MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,90000,OCTUBRE,2023
+KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,OCTUBRE,2023
+WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,OCTUBRE,2023
+MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,OCTUBRE,2023
+ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,26000,OCTUBRE,2023
+YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,OCTUBRE,2023
+ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,OCTUBRE,2023
+MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,130000,OCTUBRE,2023
+ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,OCTUBRE,2023
+RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ,118600,OCTUBRE,2023
+GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,90000,OCTUBRE,2023
+ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,OCTUBRE,2023
+SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ,60000,OCTUBRE,2023
+DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ,70000,OCTUBRE,2023
+LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ,130000,OCTUBRE,2023
+PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ,70000,OCTUBRE,2023
+OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,120000,OCTUBRE,2023
+FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,130000,OCTUBRE,2023
+MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,70000,OCTUBRE,2023
+FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ,70000,OCTUBRE,2023
+ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,OCTUBRE,2023
+LISBETH ANABEL ARIAS RAVELO,GESTORA DE PROTOCOLO,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,60000,OCTUBRE,2023
+LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,OCTUBRE,2023
+JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,OCTUBRE,2023
+HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,70000,OCTUBRE,2023
+JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,60000,OCTUBRE,2023
+TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,120000,OCTUBRE,2023
+FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,150000,OCTUBRE,2023
+ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,OCTUBRE,2023
+GERARDO PANIAGUA ZABALA,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,OCTUBRE,2023
+MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ,250000,NOVIEMBRE,2023
+VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,95000,NOVIEMBRE,2023
+RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,150000,NOVIEMBRE,2023
+LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,70000,NOVIEMBRE,2023
+LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,NOVIEMBRE,2023
+SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,130000,NOVIEMBRE,2023
+FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,NOVIEMBRE,2023
+DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,120000,NOVIEMBRE,2023
+MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,NOVIEMBRE,2023
+CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,100000,NOVIEMBRE,2023
+RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,10000,NOVIEMBRE,2023
+MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,25000,NOVIEMBRE,2023
+EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,26000,NOVIEMBRE,2023
+TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,90000,NOVIEMBRE,2023
+MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,78500,NOVIEMBRE,2023
+JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,NOVIEMBRE,2023
+JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,70000,NOVIEMBRE,2023
+PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,75000,NOVIEMBRE,2023
+MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,NOVIEMBRE,2023
+RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,32000,NOVIEMBRE,2023
+MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,130000,NOVIEMBRE,2023
+LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,60000,NOVIEMBRE,2023
+JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,NOVIEMBRE,2023
+JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,NOVIEMBRE,2023
+MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,NOVIEMBRE,2023
+YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,70000,NOVIEMBRE,2023
+YRALISSA DIAZ LANGUASCO,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,55000,NOVIEMBRE,2023
+LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,NOVIEMBRE,2023
+ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,60000,NOVIEMBRE,2023
+MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,28000,NOVIEMBRE,2023
+ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,NOVIEMBRE,2023
+ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,38000,NOVIEMBRE,2023
+ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,45000,NOVIEMBRE,2023
+JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,NOVIEMBRE,2023
+MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,90000,NOVIEMBRE,2023
+KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,NOVIEMBRE,2023
+WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,NOVIEMBRE,2023
+MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,NOVIEMBRE,2023
+ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,26000,NOVIEMBRE,2023
+YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,NOVIEMBRE,2023
+ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,NOVIEMBRE,2023
+MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,130000,NOVIEMBRE,2023
+ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,NOVIEMBRE,2023
+RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ,118600,NOVIEMBRE,2023
+GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,90000,NOVIEMBRE,2023
+ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,NOVIEMBRE,2023
+SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ,60000,NOVIEMBRE,2023
+DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ,70000,NOVIEMBRE,2023
+LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ,130000,NOVIEMBRE,2023
+PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ,70000,NOVIEMBRE,2023
+OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,120000,NOVIEMBRE,2023
+FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,130000,NOVIEMBRE,2023
+MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,70000,NOVIEMBRE,2023
+FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ,70000,NOVIEMBRE,2023
+ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,NOVIEMBRE,2023
+LISBETH ANABEL ARIAS RAVELO,GESTORA DE PROTOCOLO,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,60000,NOVIEMBRE,2023
+LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,NOVIEMBRE,2023
+JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,NOVIEMBRE,2023
+HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,70000,NOVIEMBRE,2023
+JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,60000,NOVIEMBRE,2023
+TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,120000,NOVIEMBRE,2023
+FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,150000,NOVIEMBRE,2023
+ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,NOVIEMBRE,2023
+GERARDO PANIAGUA ZABALA,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,NOVIEMBRE,2023
+MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ,250000,DICIEMBRE,2023
+VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,95000,DICIEMBRE,2023
+RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,150000,DICIEMBRE,2023
+LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,70000,DICIEMBRE,2023
+LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,DICIEMBRE,2023
+SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,130000,DICIEMBRE,2023
+FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,DICIEMBRE,2023
+DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,120000,DICIEMBRE,2023
+MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,DICIEMBRE,2023
+CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,100000,DICIEMBRE,2023
+RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,10000,DICIEMBRE,2023
+MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,25000,DICIEMBRE,2023
+EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,26000,DICIEMBRE,2023
+TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,90000,DICIEMBRE,2023
+MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,78500,DICIEMBRE,2023
+JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,DICIEMBRE,2023
+JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,70000,DICIEMBRE,2023
+PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,75000,DICIEMBRE,2023
+MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,DICIEMBRE,2023
+RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,32000,DICIEMBRE,2023
+MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,130000,DICIEMBRE,2023
+LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,60000,DICIEMBRE,2023
+JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,DICIEMBRE,2023
+JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,115000,DICIEMBRE,2023
+MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,DICIEMBRE,2023
+YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,70000,DICIEMBRE,2023
+YRALISSA DIAZ LANGUASCO,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,55000,DICIEMBRE,2023
+LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,DICIEMBRE,2023
+ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,60000,DICIEMBRE,2023
+MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,28000,DICIEMBRE,2023
+ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,DICIEMBRE,2023
+ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,38000,DICIEMBRE,2023
+ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,45000,DICIEMBRE,2023
+JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,DICIEMBRE,2023
+MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,90000,DICIEMBRE,2023
+KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,DICIEMBRE,2023
+WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,DICIEMBRE,2023
+MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,25000,DICIEMBRE,2023
+ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ,26000,DICIEMBRE,2023
+YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,25000,DICIEMBRE,2023
+ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,DICIEMBRE,2023
+MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,130000,DICIEMBRE,2023
+ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,55000,DICIEMBRE,2023
+RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ,118600,DICIEMBRE,2023
+GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ,90000,DICIEMBRE,2023
+ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ,189000,DICIEMBRE,2023
+SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ,60000,DICIEMBRE,2023
+DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ,70000,DICIEMBRE,2023
+LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ,130000,DICIEMBRE,2023
+PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ,70000,DICIEMBRE,2023
+OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,120000,DICIEMBRE,2023
+FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,130000,DICIEMBRE,2023
+MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ,70000,DICIEMBRE,2023
+FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ,70000,DICIEMBRE,2023
+ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,55000,DICIEMBRE,2023
+LISBETH ANABEL ARIAS RAVELO,GESTORA DE PROTOCOLO,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ,60000,DICIEMBRE,2023
+LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,DICIEMBRE,2023
+JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,40000,DICIEMBRE,2023
+HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ,70000,DICIEMBRE,2023
+JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ,60000,DICIEMBRE,2023
+TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,120000,DICIEMBRE,2023
+FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,150000,DICIEMBRE,2023
+ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,DICIEMBRE,2023
+JUAN AMPARO ROJAS CABRAL,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ,25000,DICIEMBRE,2023
+MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ," 250,000.00 ",ENERO,2024
+VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 95,000.00 ",ENERO,2024
+RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 150,000.00 ",ENERO,2024
+LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 70,000.00 ",ENERO,2024
+LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",ENERO,2024
+SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 130,000.00 ",ENERO,2024
+FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",ENERO,2024
+DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 120,000.00 ",ENERO,2024
+MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",ENERO,2024
+CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 100,000.00 ",ENERO,2024
+RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 10,000.00 ",ENERO,2024
+MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 25,000.00 ",ENERO,2024
+EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 26,000.00 ",ENERO,2024
+TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 90,000.00 ",ENERO,2024
+MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 78,500.00 ",ENERO,2024
+JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",ENERO,2024
+JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 70,000.00 ",ENERO,2024
+PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 75,000.00 ",ENERO,2024
+MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",ENERO,2024
+RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 32,000.00 ",ENERO,2024
+MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 130,000.00 ",ENERO,2024
+LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 60,000.00 ",ENERO,2024
+JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",ENERO,2024
+JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",ENERO,2024
+MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",ENERO,2024
+YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 70,000.00 ",ENERO,2024
+LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",ENERO,2024
+ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 60,000.00 ",ENERO,2024
+MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 28,000.00 ",ENERO,2024
+ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",ENERO,2024
+ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 38,000.00 ",ENERO,2024
+ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 45,000.00 ",ENERO,2024
+JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",ENERO,2024
+MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 90,000.00 ",ENERO,2024
+KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",ENERO,2024
+WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",ENERO,2024
+MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",ENERO,2024
+ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 26,000.00 ",ENERO,2024
+YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",ENERO,2024
+ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",ENERO,2024
+MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 130,000.00 ",ENERO,2024
+ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",ENERO,2024
+RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ," 118,600.00 ",ENERO,2024
+GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 90,000.00 ",ENERO,2024
+ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",ENERO,2024
+SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ," 60,000.00 ",ENERO,2024
+DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ," 70,000.00 ",ENERO,2024
+LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",ENERO,2024
+PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",ENERO,2024
+OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 120,000.00 ",ENERO,2024
+FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",ENERO,2024
+MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 70,000.00 ",ENERO,2024
+FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",ENERO,2024
+ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",ENERO,2024
+LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",ENERO,2024
+JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",ENERO,2024
+HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 70,000.00 ",ENERO,2024
+JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 60,000.00 ",ENERO,2024
+TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 120,000.00 ",ENERO,2024
+FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 150,000.00 ",ENERO,2024
+ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",ENERO,2024
+JUAN AMPARO ROJAS CABRAL,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",ENERO,2024
+MAXIMILIANO RABELAIS PUIG MILLER,VICEPRESIDENTE EJECUTIVO,VICEPRESIDENCIA EJECUTIVA, LIBRE NOMBRAMIENTO Y REMOCION ," 250,000.00 ",FEBRERO,2024
+VICTOR JOEL APONTE COLON,COORDINADOR DEL DESPACHO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 95,000.00 ",FEBRERO,2024
+RODRIGO FINCHEIRA PALIZA,ASESOR DE RELACIONES INTERINSTITUCIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 150,000.00 ",FEBRERO,2024
+LUIS ALEJANDRO MERCEDES RODRIGUEZ,ASESOR MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 70,000.00 ",FEBRERO,2024
+LUMILDA ALTAGRACIA PUJOLS PUJOLS,ANALISTA LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+SARA VICTORIA GONZALEZ TRONCOSO,ASESORA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 130,000.00 ",FEBRERO,2024
+ESTEFANY MARLENE DE LEON GUZMAN,ANALISTA DE RELACIONES INTERNACIONALES,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+FELIX JUNIOR SILVERIO RAMIREZ,TECNICO EN INFORMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",FEBRERO,2024
+DENIA MARLENIS CID PEREZ,ASESORA CIENTIFICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 120,000.00 ",FEBRERO,2024
+MODESTO LAUREANO GERVACIO,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+CESAR MIGUEL ESCOTO SALCEDO,ASESOR LEGAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 100,000.00 ",FEBRERO,2024
+RAFAEL ESTEBAN CASTILLO,PORTERO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 10,000.00 ",FEBRERO,2024
+MARIA MILCA COMPERE MYRTIL,VIGILANTE,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 25,000.00 ",FEBRERO,2024
+EMMANUEL RICARDO PERDOMO RUIZ,AUXILIAR ADMINISTRATIVO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 26,000.00 ",FEBRERO,2024
+TANIA JOSEFINA PINEDA PEREZ,ASISTENTE ADMINISTRATIVA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 90,000.00 ",FEBRERO,2024
+MARIA DE LOS ANGELES PINEDA TEJEDA,RESPONSABLE DE OFICINA DE ACCESO A LA INFORMACION,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 78,500.00 ",FEBRERO,2024
+JUAN PABLO DE MOLA RODRIGUEZ,SOPORTE HELP DESK,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",FEBRERO,2024
+JUSTINA DEL CARMEN LANTIGUA FIGUEROA,ANALISTA DE RECURSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 70,000.00 ",FEBRERO,2024
+PATRICIA JOSEFINA RODRIGUE DE PAYANO,COORDINADORA DE NOMINA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 75,000.00 ",FEBRERO,2024
+MARLIN ESPINOSA ALMANZAR,ENC. DE LA DIVISION DE RECUSRSOS HUMANOS,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",FEBRERO,2024
+RUTH NERETH REYNA TORRES,SECRETARIA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 32,000.00 ",FEBRERO,2024
+MARIA MAGDALENA GARCIA RODRIGUEZ,ENC. DE LA DIVISION DE PLANIFICACION Y DESARROLLO,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 130,000.00 ",FEBRERO,2024
+LILIAN YSABEL MEDINA CUEVAS,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 60,000.00 ",FEBRERO,2024
+JIANNA SOLANGI CASTILLO CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+JAHNDERY DE JESUS MUÑOZ GIL,ASESORA,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 115,000.00 ",FEBRERO,2024
+MIRIAM DOLORES VILLALONA CASTILLO,ANALISTA DE DESARROLLO INSTITUCIONAL,VICEPRESIDENCIA EJECUTIVA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+YAMEL OJEDA ABREU,ANALISTA DE CALIDAD EN LA GESTION,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 70,000.00 ",FEBRERO,2024
+LUZ MARIA ABREU LANTIGUA,DIRECTORA ADMINISTRATIVA Y FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",FEBRERO,2024
+ANGELA DEL CORAZON DE JESUS PEREYRA,ASISTENTE ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 60,000.00 ",FEBRERO,2024
+MARIELA ALBERTO,RECEPCIONISTA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 28,000.00 ",FEBRERO,2024
+ELIZABETH MARGARET ROSADO FERNANDEZ,ANALISTA DE COMPRAS Y CONTRATACIONES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+ISRRAEL DE LA CRUZ FELIZ,MENSAJERO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+PAOLA TORRES CASTILLO,AUXILIAR ALMACEN Y SUMINISTRO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 38,000.00 ",FEBRERO,2024
+ARIDIO MORILLO MORILLO,TECNICO DE CONTROL DE BIENES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 45,000.00 ",FEBRERO,2024
+JULIO TOLENTINO PORTORREAL,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+PAULINA DE LOS SANTOS DE LOS SANTOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",FEBRERO,2024
+MANUEL ANDRES FIGUEROA SORIANO,ENC. DE SERVICIOS GENERALES,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 90,000.00 ",FEBRERO,2024
+KARINA FERNANDA FLORENTINO FELIZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",FEBRERO,2024
+WALIN DANIS OGANDO,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+HUMBERTO ANTONIO GUZMAN GARCIA,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+LUIS ANTONIO MATEO VALERIO,CHOFER,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+ADRIANA VILLAFAÑA DE JESUS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",FEBRERO,2024
+MISAHEL ALEXANDER CASTILLO RAMIREZ,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+ANGEL EZEQUIEL PATROCINO ABREU,SUPERVISOR DE MANTENIMIENTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADO ," 26,000.00 ",FEBRERO,2024
+YUDELKA ANTONIA JORGE RAMOS,CONSERJE,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 25,000.00 ",FEBRERO,2024
+ANDALUCIA CONTRERAS RODRIGUEZ,ANALISTA FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+MIRNA MABEL VERAS CARVAJAL,ENC. DE LA DIVISION FINANCIERA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 130,000.00 ",FEBRERO,2024
+ELIZABETH DARREL PEREZ,CONTADORA,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 55,000.00 ",FEBRERO,2024
+RAFAEL AUGUSTO ARISTY FLORES,ENC. DIVISION ADMINISTRATIVA,DIR. ADMINISTRATIVA Y FINANCIERA, TEMPORERO ," 118,600.00 ",FEBRERO,2024
+GLISELDI CORINA RODRIGUEZ MARTINEZ,ENC. DE LA SECCION DE PRESUPUESTO,DIR. ADMINISTRATIVA Y FINANCIERA, DESIGNADA ," 90,000.00 ",FEBRERO,2024
+ALAN LOUIS RAMIREZ RISK,DIRECTOR TECNICO,DIRECCION TECNICA, LIBRE NOMBRAMIENTO Y REMOCION ," 189,000.00 ",FEBRERO,2024
+SAHONI SHARINA FELIZ MATOS,ASISTENTE ADMINISTRATIVA,DIRECCION TECNICA, DESIGNADA ," 60,000.00 ",FEBRERO,2024
+DOMINGO ANTONIO BURGOS VILORIA,ANALISTA DE MITIGACION,DIRECCION TECNICA, DESIGNADO ," 70,000.00 ",FEBRERO,2024
+LUZ DELINA ALCANTARA AQUINO,ENC. DEL DEPARTAMENTO DE MITIGACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",FEBRERO,2024
+PAMELA MERCEDES ABREU TORIBIO,ANALISTA DE MITIGACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",FEBRERO,2024
+OFELIA MILAGROS CASTRO MORA,ASESORA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 120,000.00 ",FEBRERO,2024
+FABIA ROSALIA DUVAL MARMOLEJOS,ENC. DEL DEPARTAMENTO DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 130,000.00 ",FEBRERO,2024
+MASSIEL ESTEFANIA CAIRO CASTILLO,ANALISTA DE ADAPTACION,DIRECCION TECNICA, DESIGNADA ," 70,000.00 ",FEBRERO,2024
+FRANCINA SAMANTA MATEO ABREU,ANALISTA DE ADAPTACION,DIRECCION TECNICA, TEMPORERA ," 70,000.00 ",FEBRERO,2024
+CELESTE PEREZ RODRIGUEZ,ANALISTA DE COMUNICACIONES,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 50,000.00 ",FEBRERO,2024
+LISANDRO JAVIER PICHARDO ROSARIO,DISEÑADOR GRAFICO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",FEBRERO,2024
+JHONATAN MARTE DIAZ,FOTOGRAFO,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 40,000.00 ",FEBRERO,2024
+HEIDY CRISTAL BERAS MEDINA,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERA ," 70,000.00 ",FEBRERO,2024
+JUAN FRANCISCO BENTZ BRITO,PERIODISTA,VICEPRESIDENCIA EJECUTIVA, TEMPORERO ," 60,000.00 ",FEBRERO,2024
+TEODORO DE JESUS JIMENEZ DURAN,ASESOR DE DESARROLLO E IMPLEMENTACION DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 120,000.00 ",FEBRERO,2024
+FEDERICO ALFREDO GRULLON DE LA CRUZ,ASESOR DE TRANSPARENCIA CLIMATICA,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 150,000.00 ",FEBRERO,2024
+ANGEL ALBERTO LOPEZ SORIANO,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
+JUAN AMPARO ROJAS CABRAL,SEGURIDAD MILITAR,VICEPRESIDENCIA EJECUTIVA, DESIGNADO ," 25,000.00 ",FEBRERO,2024
